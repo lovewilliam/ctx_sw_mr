@@ -1,0 +1,10 @@
+On TQ2440 S3C2440 ARM920T rev 0 (v4l) 64M-RAM
+
+Linux hololo 3.13.0-rc2-00122-gdea4f48-dirty #3 PREEMPT Thu Dec 5 22:31:31 HKT 2013 armv4tl GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 4766 us
+Min ctx_switch latency: 3218 us
+Avg ctx_switch latency: 3956 us
+

@@ -1,0 +1,10 @@
+On Gentoo Linux Intel(R) Atom(TM) CPU D525   @ 1.80GHz 2G-RAM
+
+Linux Phoenix-nas 3.9.0-gentoo #1 SMP Sat May 4 20:36:56 CST 2013 i686 Intel(R) Atom(TM) CPU D525 @ 1.80GHz GenuineIntel GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 130 us
+Min ctx_switch latency: 44 us
+Avg ctx_switch latency: 63 us
+

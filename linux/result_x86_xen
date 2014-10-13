@@ -1,0 +1,9 @@
+On XEN Gentoo Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz 709M RAM
+
+Linux liugegegeHost 2.6.35.8.stk.x86 #1 SMP Sat Oct 30 20:33:46 EDT 2010 i686 Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz GenuineIntel GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 4330 us
+Min ctx_switch latency: 76 us
+Avg ctx_switch latency: 124 us

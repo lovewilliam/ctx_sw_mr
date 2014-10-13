@@ -1,0 +1,14 @@
+On VirtualBox-4.2.18
+
+Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz
+2G-RAM
+
+Linux Phoenix 3.11.0-gentoo #9 SMP Sun Sep 15 01:04:42 HKT 2013 x86_64 Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz GenuineIntel GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 10943 us
+Min ctx_switch latency: 185 us
+Avg ctx_switch latency: 2428 us
+
+

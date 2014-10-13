@@ -1,0 +1,10 @@
+On Raspberry-PI BCM2708 ARMv6-compatible processor rev 7 (v6l) 121M-RAM
+Linux raspberrypi 3.6.11+ #538 PREEMPT Fri Aug 30 20:42:08 BST 2013 armv6l GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 8869 us
+Min ctx_switch latency: 68 us
+Avg ctx_switch latency: 78 us
+
+

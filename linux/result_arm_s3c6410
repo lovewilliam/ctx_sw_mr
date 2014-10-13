@@ -1,0 +1,14 @@
+S3C6410 
+Linux AirStation 3.12.0-rc4-OK6410-Changbin #16 Fri Oct 18 21:05:50 HKT 2013 armv6l GNU/Linux
+
+model name	: ARMv6-compatible processor rev 6 (v6l)
+
+
+lovewilliam@AirStation:~$ ./a.out
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 403 us
+Min ctx_switch latency: 63 us
+Avg ctx_switch latency: 93 us
+lovewilliam@AirStation:~$
+

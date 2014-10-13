@@ -1,0 +1,10 @@
+On OS X 10.8.5
+Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz
+8G RAM
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 556 us
+Min ctx_switch latency: 18 us
+Avg ctx_switch latency: 237 us
+

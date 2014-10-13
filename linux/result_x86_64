@@ -1,0 +1,9 @@
+On Intel (R) Xeon(R) CPU E3-1275 V2 @ 3.50GHz 8G-RAM
+Linux labserver 3.4.10 #1 SMP Sun Sep 30 20:34:17 CST 2012 x86_64 x86_64 x86_64 GNU/Linux
+
+Contex Switching Test Result
+----------------------------
+Max ctx_switch latency: 110 us
+Min ctx_switch latency: 25 us
+Avg ctx_switch latency: 53 us
+
